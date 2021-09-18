@@ -15,10 +15,10 @@
 
 ## Literature Review
 
-##### Abstract
+### Abstract
 
-##### Keywords
+### Keywords
 
 Binary Classification, Venture Capital, Machine Learning
 
-##### Introduction
+### Introduction
