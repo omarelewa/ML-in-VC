@@ -3,6 +3,6 @@
 ### Supervised By:
 
 1.  Dr. Sherif Aly
-2.  Dr. Hesham Eraqi
+1.  Dr. Hesham Eraqi
 
 ## Literature Review
