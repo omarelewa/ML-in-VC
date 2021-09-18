@@ -19,4 +19,6 @@
 
 ##### Keywords
 
+Binary Classification, Venture Capital, Machine Learning
+
 ##### Introduction
