@@ -27,8 +27,15 @@ Binary Classification, Venture Capital, Machine Learning
 
 #### CapitalVX: A machine learning model for startup selection and exit prediction
 
+**Section 1**
 Using publicly available data sets, obtained from **\_\_\_\_** we are willing to refine the usage of machine learning in the domain of Venture Capital Investment by training machine learning models using data that is obtained, in order to come up with more reliable real-time predictions of the future state of any startup given we have access to the required parameters so that the machine learning algorithm can operate successfully.
 
 _We implemented a combination of Deep Learning, XGBoost, Random Forests, and K-Nearest Neighbors for the purposes of this study._
 
 _The general process in the pipeline is to first perform exploratory data analysis, extract the features, retrain the models, and then evaluate our predictions based on known events._
+
+**Section 2**
+Available literature available for our topic of using machine learning for venture capital investment is mainly divided into two categories:
+
+- Identifying successful investors
+- Identifying successful startup investments.
