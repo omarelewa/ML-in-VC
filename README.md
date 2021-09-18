@@ -2,7 +2,7 @@
 
 ### Supervised By:
 
-1.  Dr. Sherif Aly
-1.  Dr. Hesham Eraqi
+- Dr. Sherif Aly
+- Dr. Hesham Eraqi
 
 ## Literature Review
