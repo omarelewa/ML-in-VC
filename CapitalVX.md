@@ -4,8 +4,6 @@
 
 - This paper develops a machine- learning model called CapitalVX (for “Capital Venture eXchange”) to predict the outcomes for startups, i.e., whether they will exit successfully through an IPO or acquisition, fail, or remain private.
 
--
-
 ## Keywords
 
 - Machine Learning
@@ -26,6 +24,7 @@ The literature may be broken down into two broad strands:
 
 - (i) identifying successful investors.
 - (ii) identifying successful startup investments.
+
 There are of course, several taxonomies for this well-researched area, such as the excellent survey by Rin et al. (2013).25
 In work associated with identifying successful investors, graph theory has become an important tool. One such approach relies on investor networks, and work by Glupker et al. (2019)16 has shown that network position determines the success rate of investors. The paper shows that it is in fact easier to predict unsuccessful investors. The study offers a two-step approach, cut by industry first, followed by community construction within industry, i.e., focus on the industry of the startup followed by the use of a machine-learning model. This combines financial data with graph- theoretic ideas and machine learning algorithms.
 Gupta et al. (2015)17 developed InvestorRank, a method for identifying successful investors based on position in a network, such as being close to an exemplary investor or super-angel. The result of the research shows potential in discovering investors who will become successful. InvestorRank flags investors who follow a general trend of improvement when compared to their preceding snapshot based on a threshold. Bubna et al. (2020)7 analyze a VC network to uncover communities, i.e., small groups of VCs who tend to frequently work together. They show that startups funded by community VCs (as opposed to non-community VCs) tend to have higher probabilities of suc- cessful exits as well as faster exits. Geographical distance is a determinant in VCs working together and therefore is an indirect determinant of startup success, see Sorenson and Stuart (2001)28. Similarly, Adcock et al. (2012)1 analyze a bipartite investment network of investors and investees with links based on investments between them. Personal investors evidence the highest average clustering, tech companies the lowest, indicating that they choose to acquire small firms rather than invest in them.
